@@ -11,6 +11,7 @@ public class Task1 {
                 .mapToInt(Integer::intValue)
                 .average();
                 average.ifPresent(System.out::println);
+        System.out.println();
     }
 
 }

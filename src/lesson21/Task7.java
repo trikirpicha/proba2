@@ -5,5 +5,8 @@ public class Task7 {
         System.out.println("hello world");
         System.out.println("alex");
         System.out.println("alex");
+        System.out.println("alex");
+        System.out.println("alex");
+
     }
 }
